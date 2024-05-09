@@ -15,6 +15,31 @@ public class SmartTv {
 
         ligada = false;
     }
+
+    //métodos de volume
+    public void aumentarVolume(){
+        volume++;
+        System.out.println("Aumentando volume para: " +volume);
+    }
+
+    public void diminuirVolume(){
+        volume--;
+        System.out.println("Diminuindo volume para: " +volume);
+
+    }
+
+    //Métodos de canal
+    public void mudarCanal(int novoCanal){ //parâmetro
+        canal = novoCanal;
+        System.out.println("Mudando para o canal: " +canal);
+    }
+    public void aumentarCanal(){
+        canal++;
+    }
+
+    public void diminuirCanal(){
+        canal--;
+    }
 }
 
 /* Vamos criar um exemplo de uma classe para representar uma SmartTV onde:
