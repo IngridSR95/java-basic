@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "estruturarepeticao.ExemploFor",
+            "projectName": "controle-fluxo_940a155b"
+        },
+        {
+            "type": "java",
             "name": "PlanoOperadora",
             "request": "launch",
             "mainClass": "PlanoOperadora",

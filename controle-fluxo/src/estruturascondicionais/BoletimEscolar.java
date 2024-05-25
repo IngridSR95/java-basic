@@ -1,3 +1,4 @@
+package estruturascondicionais;
 public class BoletimEscolar {
     public static void main(String[] args) throws Exception {
         
