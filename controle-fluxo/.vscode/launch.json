@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForArray",
+            "request": "launch",
+            "mainClass": "estruturarepeticao.ForArray",
+            "projectName": "controle-fluxo_940a155b"
+        },
+        {
+            "type": "java",
             "name": "ExemploFor",
             "request": "launch",
             "mainClass": "estruturarepeticao.ExemploFor",
