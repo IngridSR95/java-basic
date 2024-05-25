@@ -1,7 +1,7 @@
 public class CaixaEletronico {
     public static void main(String[] args) {
 
-        //Condicional Simples
+        //Condicional
         double saldo =25.0;
         double valorSolicitado = 2.0;
 
